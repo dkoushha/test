@@ -8,6 +8,6 @@ def greet(who_to_greet):
     return greeting
 
 
-print(greet('World'))
-print(greet('Name'))
+# print(greet('World'))
+# print(greet('Name'))
 # print(greet('Name'))
